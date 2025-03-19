@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -24,5 +26,10 @@
     "eslint-plugin-react-refresh": "^0.4.18",
     "globals": "^15.14.0",
     "vite": "^6.1.0"
-  }
+  },
+  "description": "- **Objective:** Build a React-based product rating module where users can rate products.\r - **Provided Boilerplate:** The project includes a boilerplate with a static products array already defined in `App.jsx`.\r - **Key Concepts:** Child-to-parent communication, state management, and UI interactivity using React Hooks and PropTypes.",
+  "main": "eslint.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
